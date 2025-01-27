@@ -1,0 +1,12 @@
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\bin\Release\Awesome Update Findr.exe
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\bin\Release\Awesome Update Findr.pdb
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Release\Awesome_Update_Findr.Form1.resources
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Release\Awesome_Update_Findr.Properties.Resources.resources
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Release\Awesome Update Findr.exe
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Release\Awesome Update Findr.pdb
+C:\Users\Will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\bin\Release\Awesome Update Findr.exe.config
+C:\Users\Will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Release\ResGen.write.1.tlog

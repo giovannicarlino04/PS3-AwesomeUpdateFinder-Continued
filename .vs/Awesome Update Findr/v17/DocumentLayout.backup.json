@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carli\\Desktop\\Awesome Update Finder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E70014-AF97-4A6C-8C42-E5833536C260}|Awesome Update Findr\\Awesome Update Findr.csproj|C:\\Users\\Carli\\Desktop\\Awesome Update Finder\\awesome update findr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66E70014-AF97-4A6C-8C42-E5833536C260}|Awesome Update Findr\\Awesome Update Findr.csproj|solutionrelative:awesome update findr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E70014-AF97-4A6C-8C42-E5833536C260}|Awesome Update Findr\\Awesome Update Findr.csproj|c:\\users\\carli\\desktop\\awesome update finder\\awesome update findr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E70014-AF97-4A6C-8C42-E5833536C260}|Awesome Update Findr\\Awesome Update Findr.csproj|solutionrelative:awesome update findr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E70014-AF97-4A6C-8C42-E5833536C260}|Awesome Update Findr\\Awesome Update Findr.csproj|C:\\Users\\Carli\\Desktop\\Awesome Update Finder\\awesome update findr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E70014-AF97-4A6C-8C42-E5833536C260}|Awesome Update Findr\\Awesome Update Findr.csproj|solutionrelative:awesome update findr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Carli\\Desktop\\Awesome Update Finder\\Awesome Update Findr\\Form1.cs",
+              "RelativeDocumentMoniker": "Awesome Update Findr\\Form1.cs",
+              "ToolTip": "C:\\Users\\Carli\\Desktop\\Awesome Update Finder\\Awesome Update Findr\\Form1.cs",
+              "RelativeToolTip": "Awesome Update Findr\\Form1.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAcwHgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:23:57.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Carli\\Desktop\\Awesome Update Finder\\Awesome Update Findr\\Form1.cs",
+              "RelativeDocumentMoniker": "Awesome Update Findr\\Form1.cs",
+              "ToolTip": "C:\\Users\\Carli\\Desktop\\Awesome Update Finder\\Awesome Update Findr\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Awesome Update Findr\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:22:51.492Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carli\\Desktop\\Awesome Update Finder\\Awesome Update Findr\\Program.cs",
+              "RelativeDocumentMoniker": "Awesome Update Findr\\Program.cs",
+              "ToolTip": "C:\\Users\\Carli\\Desktop\\Awesome Update Finder\\Awesome Update Findr\\Program.cs",
+              "RelativeToolTip": "Awesome Update Findr\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:22:48.036Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

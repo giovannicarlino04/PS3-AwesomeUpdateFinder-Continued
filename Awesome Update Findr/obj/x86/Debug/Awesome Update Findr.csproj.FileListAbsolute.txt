@@ -1,0 +1,20 @@
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\bin\Debug\Awesome Update Findr.exe
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\bin\Debug\Awesome Update Findr.pdb
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Debug\Awesome_Update_Findr.Form1.resources
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Debug\Awesome_Update_Findr.Properties.Resources.resources
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Debug\Awesome Update Findr.exe
+c:\users\will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\obj\x86\Debug\Awesome Update Findr.pdb
+C:\Users\Will\documents\visual studio 2010\Projects\Awesome Update Findr\Awesome Update Findr\bin\Debug\Awesome Update Findr.exe.config
+C:\Users\Carli\Desktop\Awesome Update Finder\Awesome Update Findr\obj\x86\Debug\Awesome Update Findr.csproj.AssemblyReference.cache
+C:\Users\Carli\Desktop\Awesome Update Finder\Awesome Update Findr\obj\x86\Debug\Awesome Update Findr.exe
+C:\Users\Carli\Desktop\Awesome Update Finder\Awesome Update Findr\obj\x86\Debug\Awesome Update Findr.pdb
+C:\Users\Carli\Desktop\Awesome Update Finder\Awesome Update Findr\bin\Debug\Awesome Update Findr.exe.config
+C:\Users\Carli\Desktop\Awesome Update Finder\Awesome Update Findr\bin\Debug\Awesome Update Findr.exe
+C:\Users\Carli\Desktop\Awesome Update Finder\Awesome Update Findr\bin\Debug\Awesome Update Findr.pdb
+C:\Users\Carli\Desktop\Awesome Update Finder\Awesome Update Findr\obj\x86\Debug\Awesome_Update_Findr.Form1.resources
+C:\Users\Carli\Desktop\Awesome Update Finder\Awesome Update Findr\obj\x86\Debug\Awesome_Update_Findr.Properties.Resources.resources
+C:\Users\Carli\Desktop\Awesome Update Finder\Awesome Update Findr\obj\x86\Debug\Awesome Update Findr.csproj.GenerateResource.cache
+C:\Users\Carli\Desktop\Awesome Update Finder\Awesome Update Findr\obj\x86\Debug\Awesome Update Findr.csproj.CoreCompileInputs.cache
